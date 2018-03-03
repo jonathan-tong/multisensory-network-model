@@ -16,13 +16,13 @@ m = 20
 #visual gain
 gv = 80
 #visual tuning width
-sig = 80 #20
+sig = 20 
 
 L = 301
 
 ####WEIGHT PARAMETERS####
 A = 2
-V = 4.325 #5
+V = 5
 am = 1
 vm = 2
 
@@ -224,7 +224,7 @@ siga = 8.1
 vara = siga^2
 
 #Visual sigma
-sigv = 7.5
+sigv = 1.8
 varv = sigv^2
 
 
